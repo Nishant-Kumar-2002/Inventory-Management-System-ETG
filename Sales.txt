@@ -1,0 +1,1 @@
+{"1001": {"time": "Sun Sep  5 19:44:58 2021", "name": "Nishant Kumar", "items": {"2010301": 3, "2010330": 2}, "Amount": 1200}, "1002": {"time": "Sun Sep  5 19:48:57 2021", "name": "Prashant Kumar", "items": {"2010324": 5, "2010325": 1, "2010323": 1}, "Amount": 550}}
